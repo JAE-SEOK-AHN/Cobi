@@ -14,7 +14,7 @@
 	<!-- => 라이브러리에 대한 버전 관리를 쉽게 하기 위해 사용 -->
 	<properties>
 		<java-version>1.8</java-version>
-		<org.springframework-version>5.1.9.RELEASE</org.springframework-version>
+		<org.springframework-version>5.2.4.RELEASE</org.springframework-version>
 		<org.aspectj-version>1.9.4</org.aspectj-version>
 		<org.slf4j-version>1.7.28</org.slf4j-version>
 	</properties>
